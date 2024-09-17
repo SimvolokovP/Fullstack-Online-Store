@@ -1,5 +1,3 @@
-# Не забудь поставить звезду
-
+Client: ts + rtk + axios + antd
 ## npm run dev - запуск сервера
-
 ## npm start - запуск клиента
